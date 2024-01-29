@@ -1,0 +1,11 @@
+body{
+    background:skyblue;
+}
+
+.title{
+    font-family: 'Lobster', cursive;
+}
+.done{
+    text-decoration: line-through;
+    color: #cfcfcf;
+}
